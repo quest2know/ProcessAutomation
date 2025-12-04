@@ -1,0 +1,15 @@
+ Daily Data Summary Report
+==========================
+
+GitHub Stars: 70111
+
+Bitcoin USD: 93471          Ethereum USD: 3219.29
+
+Bitcoin EUR: 80156          Ethereum EUR: 2760.9
+
+Bitcoin GBP: 70068          Ethereum GBP: 2412.19
+
+User Name: Nichal da Rocha
+
+User Email: nichal.darocha@example.com
+

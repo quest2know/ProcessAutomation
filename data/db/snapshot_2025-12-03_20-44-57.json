@@ -1,0 +1,21 @@
+{
+    "github_repo": {
+        "name": "cpython",
+        "stars": 70111,
+        "forks": 33576
+    },
+    "bitcoin_price": {
+        "usd": 93471,
+        "eur": 80156,
+        "gbp": 70068
+    },
+    "ethereum_price": {
+        "usd": 3219.29,
+        "eur": 2760.9,
+        "gbp": 2412.19
+    },
+    "user_info": {
+        "name": "Nichal da Rocha",
+        "email": "nichal.darocha@example.com"
+    }
+}

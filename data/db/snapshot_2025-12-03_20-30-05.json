@@ -1,0 +1,16 @@
+{
+    "github_repo": {
+        "name": "cpython",
+        "stars": 70111,
+        "forks": 33576
+    },
+    "bitcoin_price": {
+        "usd": 93363,
+        "eur": 80069,
+        "gbp": 69993
+    },
+    "user_info": {
+        "name": "Marcus Williams",
+        "email": "marcus.williams@example.com"
+    }
+}

@@ -1,0 +1,12 @@
+apis:
+  github: "https://api.github.com/repos/python/cpython"
+  crypto_usd: "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=usd"
+  crypto_eur: "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=eur"
+  crypto_gbp: "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=gbp"
+  user: "https://randomuser.me/api/"
+
+paths:
+  db_path: "data/db"
+  master_file: "data/master.jsonl"
+  report_file: "reports/summary.txt"
+  log_file: "logs/app.log"

@@ -1,0 +1,230 @@
+2025-12-03 14:38:53,431 - logs/app.log - INFO - Starting data collection process.
+2025-12-03 14:38:53,432 - logs/app.log - INFO - Fetching data from API: https://api.github.com/repos/python/cpython, Attempt: 1
+2025-12-03 14:38:54,120 - logs/app.log - INFO - Received response with status code: 200
+2025-12-03 14:38:54,126 - logs/app.log - INFO - Fetching data from API: https://www.coindesk.com/coindesk-api, Attempt: 1
+2025-12-03 14:38:55,050 - logs/app.log - INFO - Received response with status code: 200
+2025-12-03 14:38:55,051 - logs/app.log - ERROR - Attempt 1 failed: Expecting value: line 1 column 1 (char 0)
+2025-12-03 14:38:57,052 - logs/app.log - INFO - Fetching data from API: https://www.coindesk.com/coindesk-api, Attempt: 2
+2025-12-03 14:38:57,710 - logs/app.log - INFO - Received response with status code: 200
+2025-12-03 14:38:57,711 - logs/app.log - ERROR - Attempt 2 failed: Expecting value: line 1 column 1 (char 0)
+2025-12-03 14:38:59,714 - logs/app.log - INFO - Fetching data from API: https://www.coindesk.com/coindesk-api, Attempt: 3
+2025-12-03 14:39:00,418 - logs/app.log - INFO - Received response with status code: 200
+2025-12-03 14:39:00,419 - logs/app.log - ERROR - Attempt 3 failed: Expecting value: line 1 column 1 (char 0)
+2025-12-03 14:59:37,592 - INFO - Starting data collection process.
+2025-12-03 14:59:37,593 - INFO - Fetching data from API: https://api.github.com/repos/python/cpython, Attempt: 1
+2025-12-03 14:59:38,326 - INFO - Received response with status code: 200
+2025-12-03 14:59:38,336 - INFO - Fetching data from API: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=usd, Attempt: 1
+2025-12-03 14:59:39,063 - INFO - Received response with status code: 200
+2025-12-03 14:59:39,066 - INFO - Fetching data from API: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=eur, Attempt: 1
+2025-12-03 14:59:39,633 - INFO - Received response with status code: 200
+2025-12-03 14:59:39,636 - INFO - Fetching data from API: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=gbp, Attempt: 1
+2025-12-03 14:59:40,265 - INFO - Received response with status code: 200
+2025-12-03 14:59:40,270 - INFO - Fetching data from API: https://randomuser.me/api/, Attempt: 1
+2025-12-03 14:59:40,954 - INFO - Received response with status code: 200
+2025-12-03 14:59:40,988 - INFO - Saving snapshot to directory: C:\Users\quest\Documents\aiProjects\Day2PythonAutomation\data\db
+2025-12-03 14:59:40,989 - INFO - Snapshot file will be: C:\Users\quest\Documents\aiProjects\Day2PythonAutomation\data\db\snapshot_2025-12-03_14-59-40.json
+2025-12-03 15:03:56,002 - INFO - Starting data collection process.
+2025-12-03 15:03:56,003 - INFO - Fetching data from API: https://api.github.com/repos/python/cpython, Attempt: 1
+2025-12-03 15:03:56,772 - INFO - Received response with status code: 200
+2025-12-03 15:03:56,781 - INFO - Fetching data from API: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=usd, Attempt: 1
+2025-12-03 15:03:57,476 - INFO - Received response with status code: 200
+2025-12-03 15:03:57,478 - INFO - Fetching data from API: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=eur, Attempt: 1
+2025-12-03 15:03:58,042 - INFO - Received response with status code: 200
+2025-12-03 15:03:58,047 - INFO - Fetching data from API: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=gbp, Attempt: 1
+2025-12-03 15:03:58,683 - INFO - Received response with status code: 200
+2025-12-03 15:03:58,689 - INFO - Fetching data from API: https://randomuser.me/api/, Attempt: 1
+2025-12-03 15:03:59,266 - INFO - Received response with status code: 200
+2025-12-03 15:03:59,268 - INFO - Saving snapshot to directory: C:\Users\quest\Documents\aiProjects\Day2PythonAutomation\data\db
+2025-12-03 15:03:59,269 - INFO - Snapshot file will be: C:\Users\quest\Documents\aiProjects\Day2PythonAutomation\data\db\snapshot_2025-12-03_15-03-59.json
+2025-12-03 15:03:59,271 - INFO - Appended data to master file: data/master.jsonl
+2025-12-03 15:05:39,245 - INFO - Starting data collection process.
+2025-12-03 15:05:39,245 - INFO - Fetching data from API: https://api.github.com/repos/python/cpython, Attempt: 1
+2025-12-03 15:05:39,964 - INFO - Received response with status code: 200
+2025-12-03 15:05:39,968 - INFO - Fetching data from API: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=usd, Attempt: 1
+2025-12-03 15:05:40,702 - INFO - Received response with status code: 200
+2025-12-03 15:05:40,704 - INFO - Fetching data from API: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=eur, Attempt: 1
+2025-12-03 15:05:41,273 - INFO - Received response with status code: 200
+2025-12-03 15:05:41,276 - INFO - Fetching data from API: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=gbp, Attempt: 1
+2025-12-03 15:05:41,901 - INFO - Received response with status code: 200
+2025-12-03 15:05:41,903 - INFO - Fetching data from API: https://randomuser.me/api/, Attempt: 1
+2025-12-03 15:05:42,489 - INFO - Received response with status code: 200
+2025-12-03 15:05:42,491 - INFO - Saving snapshot to directory: C:\Users\quest\Documents\aiProjects\Day2PythonAutomation\data\db
+2025-12-03 15:05:42,492 - INFO - Snapshot file will be: C:\Users\quest\Documents\aiProjects\Day2PythonAutomation\data\db\snapshot_2025-12-03_15-05-42.json
+2025-12-03 15:05:42,495 - INFO - Appended data to master file: data/master.jsonl
+2025-12-03 15:05:42,496 - INFO - Creating summary report at: C:\Users\quest\Documents\aiProjects\Day2PythonAutomation\reports\summary.txt\summary_report.txt
+2025-12-03 15:28:54,082 - INFO - Starting data collection process.
+2025-12-03 15:28:54,083 - INFO - Fetching data from API: https://api.github.com/repos/python/cpython, Attempt: 1
+2025-12-03 15:28:54,644 - INFO - Received response with status code: 200
+2025-12-03 15:28:54,646 - INFO - Fetching data from API: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=usd, Attempt: 1
+2025-12-03 15:28:55,311 - INFO - Received response with status code: 200
+2025-12-03 15:28:55,313 - INFO - Fetching data from API: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=eur, Attempt: 1
+2025-12-03 15:28:55,912 - INFO - Received response with status code: 200
+2025-12-03 15:28:55,914 - INFO - Fetching data from API: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=gbp, Attempt: 1
+2025-12-03 15:28:56,539 - INFO - Received response with status code: 200
+2025-12-03 15:28:56,541 - INFO - Fetching data from API: https://randomuser.me/api/, Attempt: 1
+2025-12-03 15:28:57,104 - INFO - Received response with status code: 200
+2025-12-03 15:28:57,106 - INFO - Saving snapshot to directory: C:\Users\quest\Documents\aiProjects\Day2PythonAutomation\data\db
+2025-12-03 15:28:57,107 - INFO - Snapshot file will be: C:\Users\quest\Documents\aiProjects\Day2PythonAutomation\data\db\snapshot_2025-12-03_15-28-57.json
+2025-12-03 15:28:57,109 - INFO - Appended data to master file: data/master.jsonl
+2025-12-03 15:28:57,110 - INFO - Creating summary report at: C:\Users\quest\Documents\aiProjects\Day2PythonAutomation\reports\summary.txt\summary_report.txt
+2025-12-03 15:32:52,127 - INFO - Starting data collection process.
+2025-12-03 15:32:52,127 - INFO - Fetching data from API: https://api.github.com/repos/python/cpython, Attempt: 1
+2025-12-03 15:32:52,840 - INFO - Received response with status code: 200
+2025-12-03 15:32:52,850 - INFO - Fetching data from API: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=usd, Attempt: 1
+2025-12-03 15:32:53,508 - INFO - Received response with status code: 200
+2025-12-03 15:32:53,510 - INFO - Fetching data from API: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=eur, Attempt: 1
+2025-12-03 15:32:54,195 - INFO - Received response with status code: 200
+2025-12-03 15:32:54,200 - INFO - Fetching data from API: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=gbp, Attempt: 1
+2025-12-03 15:32:54,823 - INFO - Received response with status code: 200
+2025-12-03 15:32:54,828 - INFO - Fetching data from API: https://randomuser.me/api/, Attempt: 1
+2025-12-03 15:32:55,714 - INFO - Received response with status code: 200
+2025-12-03 15:32:55,723 - INFO - Saving snapshot to directory: C:\Users\quest\Documents\aiProjects\Day2PythonAutomation\data\db
+2025-12-03 15:32:55,725 - INFO - Snapshot file will be: C:\Users\quest\Documents\aiProjects\Day2PythonAutomation\data\db\snapshot_2025-12-03_15-32-55.json
+2025-12-03 15:32:55,761 - INFO - Appended data to master file: data/master.jsonl
+2025-12-03 15:32:55,762 - INFO - Creating summary report at: C:\Users\quest\Documents\aiProjects\Day2PythonAutomation\reports\summary.txt\summary_report.txt
+2025-12-03 15:40:05,697 - INFO - Starting data collection process.
+2025-12-03 15:40:05,697 - INFO - Fetching data from API: https://api.github.com/repos/python/cpython, Attempt: 1
+2025-12-03 15:40:06,423 - INFO - Received response with status code: 200
+2025-12-03 15:40:06,429 - INFO - Fetching data from API: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=usd, Attempt: 1
+2025-12-03 15:40:07,207 - INFO - Received response with status code: 200
+2025-12-03 15:40:07,209 - INFO - Fetching data from API: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=eur, Attempt: 1
+2025-12-03 15:40:07,781 - INFO - Received response with status code: 200
+2025-12-03 15:40:07,783 - INFO - Fetching data from API: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=gbp, Attempt: 1
+2025-12-03 15:40:08,380 - INFO - Received response with status code: 200
+2025-12-03 15:40:08,382 - INFO - Fetching data from API: https://randomuser.me/api/, Attempt: 1
+2025-12-03 15:40:08,979 - INFO - Received response with status code: 200
+2025-12-03 15:40:09,040 - INFO - Saving snapshot to directory: C:\Users\quest\Documents\aiProjects\Day2PythonAutomation\data\db
+2025-12-03 15:40:09,042 - INFO - Snapshot file will be: C:\Users\quest\Documents\aiProjects\Day2PythonAutomation\data\db\snapshot_2025-12-03_15-40-09.json
+2025-12-03 15:40:09,053 - INFO - Appended data to master file: data/master.jsonl
+2025-12-03 15:40:09,055 - INFO - Creating summary report at: C:\Users\quest\Documents\aiProjects\Day2PythonAutomation\reports\summary.txt\summary_report.txt
+2025-12-03 15:45:47,866 - INFO - Starting data collection process.
+2025-12-03 15:45:47,866 - INFO - Fetching data from API: https://api.github.com/repos/python/cpython, Attempt: 1
+2025-12-03 15:45:48,596 - INFO - Received response with status code: 200
+2025-12-03 15:45:48,601 - INFO - Fetching data from API: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=usd, Attempt: 1
+2025-12-03 15:45:49,298 - INFO - Received response with status code: 200
+2025-12-03 15:45:49,299 - INFO - Fetching data from API: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=eur, Attempt: 1
+2025-12-03 15:45:49,870 - INFO - Received response with status code: 200
+2025-12-03 15:45:49,872 - INFO - Fetching data from API: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=gbp, Attempt: 1
+2025-12-03 15:45:50,494 - INFO - Received response with status code: 200
+2025-12-03 15:45:50,497 - INFO - Fetching data from API: https://randomuser.me/api/, Attempt: 1
+2025-12-03 15:45:51,134 - INFO - Received response with status code: 200
+2025-12-03 15:45:51,143 - INFO - Saving snapshot to directory: C:\Users\quest\Documents\aiProjects\Day2PythonAutomation\data\db
+2025-12-03 15:45:51,144 - INFO - Snapshot file will be: C:\Users\quest\Documents\aiProjects\Day2PythonAutomation\data\db\snapshot_2025-12-03_15-45-51.json
+2025-12-03 15:45:51,148 - INFO - Appended data to master file: data/master.jsonl
+2025-12-03 15:45:51,149 - INFO - Creating summary report at: C:\Users\quest\Documents\aiProjects\Day2PythonAutomation\reports\summary.txt\summary_report.txt
+2025-12-03 15:46:11,416 - INFO - Starting data collection process.
+2025-12-03 15:46:11,416 - INFO - Fetching data from API: https://api.github.com/repos/python/cpython, Attempt: 1
+2025-12-03 15:46:12,049 - INFO - Received response with status code: 200
+2025-12-03 15:46:12,052 - INFO - Fetching data from API: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=usd, Attempt: 1
+2025-12-03 15:46:12,797 - INFO - Received response with status code: 200
+2025-12-03 15:46:12,802 - INFO - Fetching data from API: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=eur, Attempt: 1
+2025-12-03 15:46:13,380 - INFO - Received response with status code: 200
+2025-12-03 15:46:13,382 - INFO - Fetching data from API: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=gbp, Attempt: 1
+2025-12-03 15:46:13,930 - INFO - Received response with status code: 200
+2025-12-03 15:46:13,932 - INFO - Fetching data from API: https://randomuser.me/api/, Attempt: 1
+2025-12-03 15:46:14,499 - INFO - Received response with status code: 200
+2025-12-03 15:46:14,513 - INFO - Saving snapshot to directory: C:\Users\quest\Documents\aiProjects\Day2PythonAutomation\data\db
+2025-12-03 15:46:14,514 - INFO - Snapshot file will be: C:\Users\quest\Documents\aiProjects\Day2PythonAutomation\data\db\snapshot_2025-12-03_15-46-14.json
+2025-12-03 15:46:14,518 - INFO - Appended data to master file: data/master.jsonl
+2025-12-03 15:46:14,523 - INFO - Creating summary report at: C:\Users\quest\Documents\aiProjects\Day2PythonAutomation\reports\summary.txt\summary_report.txt
+2025-12-03 15:50:11,549 - INFO - Starting data collection process.
+2025-12-03 15:50:11,549 - INFO - Fetching data from API: https://api.github.com/repos/python/cpython, Attempt: 1
+2025-12-03 15:50:12,235 - INFO - Received response with status code: 200
+2025-12-03 15:50:12,242 - INFO - Fetching data from API: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=usd, Attempt: 1
+2025-12-03 15:50:13,007 - INFO - Received response with status code: 200
+2025-12-03 15:50:13,009 - INFO - Fetching data from API: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=eur, Attempt: 1
+2025-12-03 15:50:13,548 - INFO - Received response with status code: 200
+2025-12-03 15:50:13,550 - INFO - Fetching data from API: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=gbp, Attempt: 1
+2025-12-03 15:50:14,149 - INFO - Received response with status code: 200
+2025-12-03 15:50:14,151 - INFO - Fetching data from API: https://randomuser.me/api/, Attempt: 1
+2025-12-03 15:50:14,732 - INFO - Received response with status code: 200
+2025-12-03 16:00:24,413 - INFO - Starting data collection process.
+2025-12-03 16:00:24,413 - INFO - Fetching data from API: https://api.github.com/repos/python/cpython, Attempt: 1
+2025-12-03 16:00:25,284 - INFO - Received response with status code: 200
+2025-12-03 16:00:25,295 - INFO - Fetching data from API: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=usd, Attempt: 1
+2025-12-03 16:00:25,948 - INFO - Received response with status code: 200
+2025-12-03 16:00:25,949 - INFO - Fetching data from API: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=eur, Attempt: 1
+2025-12-03 16:00:26,547 - INFO - Received response with status code: 200
+2025-12-03 16:00:26,550 - INFO - Fetching data from API: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=gbp, Attempt: 1
+2025-12-03 16:00:27,218 - INFO - Received response with status code: 200
+2025-12-03 16:00:27,225 - INFO - Fetching data from API: https://randomuser.me/api/, Attempt: 1
+2025-12-03 16:00:27,978 - INFO - Received response with status code: 200
+2025-12-03 19:55:38,763 - INFO - Starting data collection process.
+2025-12-03 19:55:38,763 - INFO - Fetching data from API: https://api.github.com/repos/python/cpython, Attempt: 1
+2025-12-03 19:55:40,243 - INFO - Received response with status code: 200
+2025-12-03 19:55:40,248 - INFO - Fetching data from API: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=usd, Attempt: 1
+2025-12-03 19:55:41,228 - INFO - Received response with status code: 200
+2025-12-03 19:55:41,231 - INFO - Fetching data from API: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=eur, Attempt: 1
+2025-12-03 19:55:42,230 - INFO - Received response with status code: 200
+2025-12-03 19:55:42,234 - INFO - Fetching data from API: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=gbp, Attempt: 1
+2025-12-03 19:55:43,225 - INFO - Received response with status code: 200
+2025-12-03 19:55:43,228 - INFO - Fetching data from API: https://randomuser.me/api/, Attempt: 1
+2025-12-03 19:55:44,305 - INFO - Received response with status code: 200
+2025-12-03 20:05:21,447 - INFO - Starting data collection process.
+2025-12-03 20:05:21,448 - INFO - Fetching data from API: https://api.github.com/repos/python/cpython, Attempt: 1
+2025-12-03 20:05:22,872 - INFO - Received response with status code: 200
+2025-12-03 20:05:22,879 - INFO - Fetching data from API: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=usd, Attempt: 1
+2025-12-03 20:05:24,026 - INFO - Received response with status code: 200
+2025-12-03 20:05:24,032 - INFO - Fetching data from API: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=eur, Attempt: 1
+2025-12-03 20:05:25,350 - INFO - Received response with status code: 200
+2025-12-03 20:05:25,354 - INFO - Fetching data from API: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=gbp, Attempt: 1
+2025-12-03 20:05:26,770 - INFO - Received response with status code: 200
+2025-12-03 20:05:26,775 - INFO - Fetching data from API: https://randomuser.me/api/, Attempt: 1
+2025-12-03 20:05:28,016 - INFO - Received response with status code: 200
+2025-12-03 20:05:28,146 - INFO - Saving snapshot to directory: C:\Users\quest\Documents\aiProjects\Day2PythonAutomation\data\db
+2025-12-03 20:05:28,149 - INFO - Snapshot file will be: C:\Users\quest\Documents\aiProjects\Day2PythonAutomation\data\db\snapshot_2025-12-03_20-05-28.json
+2025-12-03 20:05:28,158 - INFO - Appended data to master file: data/master.jsonl
+2025-12-03 20:05:28,160 - INFO - Creating summary report at: C:\Users\quest\Documents\aiProjects\Day2PythonAutomation\reports\summary.txt\summary_report.txt
+2025-12-03 20:09:50,409 - INFO - Starting data collection process.
+2025-12-03 20:09:50,410 - INFO - Fetching data from API: https://api.github.com/repos/python/cpython, Attempt: 1
+2025-12-03 20:09:51,526 - INFO - Received response with status code: 200
+2025-12-03 20:09:51,532 - INFO - Fetching data from API: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=usd, Attempt: 1
+2025-12-03 20:09:52,448 - INFO - Received response with status code: 200
+2025-12-03 20:09:52,452 - INFO - Fetching data from API: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=eur, Attempt: 1
+2025-12-03 20:09:53,380 - INFO - Received response with status code: 200
+2025-12-03 20:09:53,383 - INFO - Fetching data from API: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=gbp, Attempt: 1
+2025-12-03 20:09:54,439 - INFO - Received response with status code: 200
+2025-12-03 20:09:54,442 - INFO - Fetching data from API: https://randomuser.me/api/, Attempt: 1
+2025-12-03 20:09:55,397 - INFO - Received response with status code: 200
+2025-12-03 20:09:55,416 - INFO - Saving snapshot to directory: C:\Users\quest\Documents\aiProjects\Day2PythonAutomation\data\db
+2025-12-03 20:09:55,418 - INFO - Snapshot file will be: C:\Users\quest\Documents\aiProjects\Day2PythonAutomation\data\db\snapshot_2025-12-03_20-09-55.json
+2025-12-03 20:09:55,423 - INFO - Appended data to master file: data/master.jsonl
+2025-12-03 20:09:55,426 - INFO - Creating summary report at: C:\Users\quest\Documents\aiProjects\Day2PythonAutomation\reports\summary.txt\summary_report.txt
+2025-12-03 20:09:55,432 - INFO - Summary report created at: C:\Users\quest\Documents\aiProjects\Day2PythonAutomation\reports\summary.txt\summary_report.txt
+2025-12-03 20:09:55,433 - INFO - Data collection process completed.
+2025-12-03 20:29:59,083 - INFO - Starting data collection process.
+2025-12-03 20:29:59,083 - INFO - Fetching data from API: https://api.github.com/repos/python/cpython, Attempt: 1
+2025-12-03 20:30:00,713 - INFO - Received response with status code: 200
+2025-12-03 20:30:00,748 - INFO - Fetching data from API: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=usd, Attempt: 1
+2025-12-03 20:30:01,774 - INFO - Received response with status code: 200
+2025-12-03 20:30:01,779 - INFO - Fetching data from API: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=eur, Attempt: 1
+2025-12-03 20:30:03,040 - INFO - Received response with status code: 200
+2025-12-03 20:30:03,044 - INFO - Fetching data from API: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=gbp, Attempt: 1
+2025-12-03 20:30:04,401 - INFO - Received response with status code: 200
+2025-12-03 20:30:04,405 - INFO - Fetching data from API: https://randomuser.me/api/, Attempt: 1
+2025-12-03 20:30:05,635 - INFO - Received response with status code: 200
+2025-12-03 20:30:05,639 - INFO - Data fetched from all APIs...{'github': {'id': 81598961, 'node_id': 'MDEwOlJlcG9zaXRvcnk4MTU5ODk2MQ==', 'name': 'cpython', 'full_name': 'python/cpython', 'private': False, 'owner': {'login': 'python', 'id': 1525981, 'node_id': 'MDEyOk9yZ2FuaXphdGlvbjE1MjU5ODE=', 'avatar_url': 'https://avatars.githubusercontent.com/u/1525981?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/python', 'html_url': 'https://github.com/python', 'followers_url': 'https://api.github.com/users/python/followers', 'following_url': 'https://api.github.com/users/python/following{/other_user}', 'gists_url': 'https://api.github.com/users/python/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/python/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/python/subscriptions', 'organizations_url': 'https://api.github.com/users/python/orgs', 'repos_url': 'https://api.github.com/users/python/repos', 'events_url': 'https://api.github.com/users/python/events{/privacy}', 'received_events_url': 'https://api.github.com/users/python/received_events', 'type': 'Organization', 'user_view_type': 'public', 'site_admin': False}, 'html_url': 'https://github.com/python/cpython', 'description': 'The Python programming language', 'fork': False, 'url': 'https://api.github.com/repos/python/cpython', 'forks_url': 'https://api.github.com/repos/python/cpython/forks', 'keys_url': 'https://api.github.com/repos/python/cpython/keys{/key_id}', 'collaborators_url': 'https://api.github.com/repos/python/cpython/collaborators{/collaborator}', 'teams_url': 'https://api.github.com/repos/python/cpython/teams', 'hooks_url': 'https://api.github.com/repos/python/cpython/hooks', 'issue_events_url': 'https://api.github.com/repos/python/cpython/issues/events{/number}', 'events_url': 'https://api.github.com/repos/python/cpython/events', 'assignees_url': 'https://api.github.com/repos/python/cpython/assignees{/user}', 'branches_url': 'https://api.github.com/repos/python/cpython/branches{/branch}', 'tags_url': 'https://api.github.com/repos/python/cpython/tags', 'blobs_url': 'https://api.github.com/repos/python/cpython/git/blobs{/sha}', 'git_tags_url': 'https://api.github.com/repos/python/cpython/git/tags{/sha}', 'git_refs_url': 'https://api.github.com/repos/python/cpython/git/refs{/sha}', 'trees_url': 'https://api.github.com/repos/python/cpython/git/trees{/sha}', 'statuses_url': 'https://api.github.com/repos/python/cpython/statuses/{sha}', 'languages_url': 'https://api.github.com/repos/python/cpython/languages', 'stargazers_url': 'https://api.github.com/repos/python/cpython/stargazers', 'contributors_url': 'https://api.github.com/repos/python/cpython/contributors', 'subscribers_url': 'https://api.github.com/repos/python/cpython/subscribers', 'subscription_url': 'https://api.github.com/repos/python/cpython/subscription', 'commits_url': 'https://api.github.com/repos/python/cpython/commits{/sha}', 'git_commits_url': 'https://api.github.com/repos/python/cpython/git/commits{/sha}', 'comments_url': 'https://api.github.com/repos/python/cpython/comments{/number}', 'issue_comment_url': 'https://api.github.com/repos/python/cpython/issues/comments{/number}', 'contents_url': 'https://api.github.com/repos/python/cpython/contents/{+path}', 'compare_url': 'https://api.github.com/repos/python/cpython/compare/{base}...{head}', 'merges_url': 'https://api.github.com/repos/python/cpython/merges', 'archive_url': 'https://api.github.com/repos/python/cpython/{archive_format}{/ref}', 'downloads_url': 'https://api.github.com/repos/python/cpython/downloads', 'issues_url': 'https://api.github.com/repos/python/cpython/issues{/number}', 'pulls_url': 'https://api.github.com/repos/python/cpython/pulls{/number}', 'milestones_url': 'https://api.github.com/repos/python/cpython/milestones{/number}', 'notifications_url': 'https://api.github.com/repos/python/cpython/notifications{?since,all,participating}', 'labels_url': 'https://api.github.com/repos/python/cpython/labels{/name}', 'releases_url': 'https://api.github.com/repos/python/cpython/releases{/id}', 'deployments_url': 'https://api.github.com/repos/python/cpython/deployments', 'created_at': '2017-02-10T19:23:51Z', 'updated_at': '2025-12-03T23:42:19Z', 'pushed_at': '2025-12-04T00:16:37Z', 'git_url': 'git://github.com/python/cpython.git', 'ssh_url': 'git@github.com:python/cpython.git', 'clone_url': 'https://github.com/python/cpython.git', 'svn_url': 'https://github.com/python/cpython', 'homepage': 'https://www.python.org', 'size': 755712, 'stargazers_count': 70111, 'watchers_count': 70111, 'language': 'Python', 'has_issues': True, 'has_projects': True, 'has_downloads': True, 'has_wiki': False, 'has_pages': False, 'has_discussions': False, 'forks_count': 33576, 'mirror_url': None, 'archived': False, 'disabled': False, 'open_issues_count': 9213, 'license': {'key': 'other', 'name': 'Other', 'spdx_id': 'NOASSERTION', 'url': None, 'node_id': 'MDc6TGljZW5zZTA='}, 'allow_forking': True, 'is_template': False, 'web_commit_signoff_required': False, 'topics': [], 'visibility': 'public', 'forks': 33576, 'open_issues': 9213, 'watchers': 70111, 'default_branch': 'main', 'temp_clone_token': None, 'custom_properties': {}, 'organization': {'login': 'python', 'id': 1525981, 'node_id': 'MDEyOk9yZ2FuaXphdGlvbjE1MjU5ODE=', 'avatar_url': 'https://avatars.githubusercontent.com/u/1525981?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/python', 'html_url': 'https://github.com/python', 'followers_url': 'https://api.github.com/users/python/followers', 'following_url': 'https://api.github.com/users/python/following{/other_user}', 'gists_url': 'https://api.github.com/users/python/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/python/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/python/subscriptions', 'organizations_url': 'https://api.github.com/users/python/orgs', 'repos_url': 'https://api.github.com/users/python/repos', 'events_url': 'https://api.github.com/users/python/events{/privacy}', 'received_events_url': 'https://api.github.com/users/python/received_events', 'type': 'Organization', 'user_view_type': 'public', 'site_admin': False}, 'network_count': 33576, 'subscribers_count': 1532}, 'crypto_usd': {'bitcoin': {'usd': 93363}, 'ethereum': {'usd': 3210.07}}, 'crypto_eur': {'bitcoin': {'eur': 80069}, 'ethereum': {'eur': 2753.01}}, 'crypto_gbp': {'bitcoin': {'gbp': 69993}, 'ethereum': {'gbp': 2406.43}}, 'user': {'results': [{'gender': 'male', 'name': {'title': 'Mr', 'first': 'Marcus', 'last': 'Williams'}, 'location': {'street': {'number': 3567, 'name': 'Colombo Street'}, 'city': 'Greymouth', 'state': 'Southland', 'country': 'New Zealand', 'postcode': 63035, 'coordinates': {'latitude': '51.8550', 'longitude': '-121.5004'}, 'timezone': {'offset': '+4:00', 'description': 'Abu Dhabi, Muscat, Baku, Tbilisi'}}, 'email': 'marcus.williams@example.com', 'login': {'uuid': 'be9523a9-3c42-41fb-9b55-379291cdd2e5', 'username': 'goldengoose318', 'password': 'ramsey', 'salt': 'nUqje0Th', 'md5': '5b52ec0dd172af05757603a02890ec20', 'sha1': '40dbeaca36b67dd0414b9b230df540ca78a48a9a', 'sha256': 'a50615e8e6f31ffef181f201023d4f5a28f1e939eed4df9e439e075cb19580a1'}, 'dob': {'date': '1972-10-08T12:43:04.629Z', 'age': 53}, 'registered': {'date': '2014-04-23T03:58:52.740Z', 'age': 11}, 'phone': '(517)-881-8319', 'cell': '(186)-137-4552', 'id': {'name': '', 'value': None}, 'picture': {'large': 'https://randomuser.me/api/portraits/men/15.jpg', 'medium': 'https://randomuser.me/api/portraits/med/men/15.jpg', 'thumbnail': 'https://randomuser.me/api/portraits/thumb/men/15.jpg'}, 'nat': 'NZ'}], 'info': {'seed': '0036c99da6163d73', 'results': 1, 'page': 1, 'version': '1.4'}}}
+2025-12-03 20:30:05,677 - INFO - Saving snapshot to directory: C:\Users\quest\Documents\aiProjects\Day2PythonAutomation\data\db
+2025-12-03 20:30:05,680 - INFO - Snapshot file will be: C:\Users\quest\Documents\aiProjects\Day2PythonAutomation\data\db\snapshot_2025-12-03_20-30-05.json
+2025-12-03 20:30:05,693 - INFO - Appended data to master file: data/master.jsonl
+2025-12-03 20:30:05,699 - INFO - Creating summary report at: C:\Users\quest\Documents\aiProjects\Day2PythonAutomation\reports\summary.txt\summary_report.txt
+2025-12-03 20:30:05,716 - INFO - Summary report created at: C:\Users\quest\Documents\aiProjects\Day2PythonAutomation\reports\summary.txt\summary_report.txt
+2025-12-03 20:30:05,716 - INFO - Data collection process completed.
+2025-12-03 20:44:51,775 - INFO - Starting data collection process.
+2025-12-03 20:44:51,775 - INFO - Fetching data from API: https://api.github.com/repos/python/cpython, Attempt: 1
+2025-12-03 20:44:52,980 - INFO - Received response with status code: 200
+2025-12-03 20:44:52,986 - INFO - Fetching data from API: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=usd, Attempt: 1
+2025-12-03 20:44:53,952 - INFO - Received response with status code: 200
+2025-12-03 20:44:53,957 - INFO - Fetching data from API: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=eur, Attempt: 1
+2025-12-03 20:44:55,023 - INFO - Received response with status code: 200
+2025-12-03 20:44:55,028 - INFO - Fetching data from API: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=gbp, Attempt: 1
+2025-12-03 20:44:56,312 - INFO - Received response with status code: 200
+2025-12-03 20:44:56,316 - INFO - Fetching data from API: https://randomuser.me/api/, Attempt: 1
+2025-12-03 20:44:57,686 - INFO - Received response with status code: 200
+2025-12-03 20:44:57,721 - INFO - Data fetched from all APIs...{'github': {'id': 81598961, 'node_id': 'MDEwOlJlcG9zaXRvcnk4MTU5ODk2MQ==', 'name': 'cpython', 'full_name': 'python/cpython', 'private': False, 'owner': {'login': 'python', 'id': 1525981, 'node_id': 'MDEyOk9yZ2FuaXphdGlvbjE1MjU5ODE=', 'avatar_url': 'https://avatars.githubusercontent.com/u/1525981?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/python', 'html_url': 'https://github.com/python', 'followers_url': 'https://api.github.com/users/python/followers', 'following_url': 'https://api.github.com/users/python/following{/other_user}', 'gists_url': 'https://api.github.com/users/python/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/python/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/python/subscriptions', 'organizations_url': 'https://api.github.com/users/python/orgs', 'repos_url': 'https://api.github.com/users/python/repos', 'events_url': 'https://api.github.com/users/python/events{/privacy}', 'received_events_url': 'https://api.github.com/users/python/received_events', 'type': 'Organization', 'user_view_type': 'public', 'site_admin': False}, 'html_url': 'https://github.com/python/cpython', 'description': 'The Python programming language', 'fork': False, 'url': 'https://api.github.com/repos/python/cpython', 'forks_url': 'https://api.github.com/repos/python/cpython/forks', 'keys_url': 'https://api.github.com/repos/python/cpython/keys{/key_id}', 'collaborators_url': 'https://api.github.com/repos/python/cpython/collaborators{/collaborator}', 'teams_url': 'https://api.github.com/repos/python/cpython/teams', 'hooks_url': 'https://api.github.com/repos/python/cpython/hooks', 'issue_events_url': 'https://api.github.com/repos/python/cpython/issues/events{/number}', 'events_url': 'https://api.github.com/repos/python/cpython/events', 'assignees_url': 'https://api.github.com/repos/python/cpython/assignees{/user}', 'branches_url': 'https://api.github.com/repos/python/cpython/branches{/branch}', 'tags_url': 'https://api.github.com/repos/python/cpython/tags', 'blobs_url': 'https://api.github.com/repos/python/cpython/git/blobs{/sha}', 'git_tags_url': 'https://api.github.com/repos/python/cpython/git/tags{/sha}', 'git_refs_url': 'https://api.github.com/repos/python/cpython/git/refs{/sha}', 'trees_url': 'https://api.github.com/repos/python/cpython/git/trees{/sha}', 'statuses_url': 'https://api.github.com/repos/python/cpython/statuses/{sha}', 'languages_url': 'https://api.github.com/repos/python/cpython/languages', 'stargazers_url': 'https://api.github.com/repos/python/cpython/stargazers', 'contributors_url': 'https://api.github.com/repos/python/cpython/contributors', 'subscribers_url': 'https://api.github.com/repos/python/cpython/subscribers', 'subscription_url': 'https://api.github.com/repos/python/cpython/subscription', 'commits_url': 'https://api.github.com/repos/python/cpython/commits{/sha}', 'git_commits_url': 'https://api.github.com/repos/python/cpython/git/commits{/sha}', 'comments_url': 'https://api.github.com/repos/python/cpython/comments{/number}', 'issue_comment_url': 'https://api.github.com/repos/python/cpython/issues/comments{/number}', 'contents_url': 'https://api.github.com/repos/python/cpython/contents/{+path}', 'compare_url': 'https://api.github.com/repos/python/cpython/compare/{base}...{head}', 'merges_url': 'https://api.github.com/repos/python/cpython/merges', 'archive_url': 'https://api.github.com/repos/python/cpython/{archive_format}{/ref}', 'downloads_url': 'https://api.github.com/repos/python/cpython/downloads', 'issues_url': 'https://api.github.com/repos/python/cpython/issues{/number}', 'pulls_url': 'https://api.github.com/repos/python/cpython/pulls{/number}', 'milestones_url': 'https://api.github.com/repos/python/cpython/milestones{/number}', 'notifications_url': 'https://api.github.com/repos/python/cpython/notifications{?since,all,participating}', 'labels_url': 'https://api.github.com/repos/python/cpython/labels{/name}', 'releases_url': 'https://api.github.com/repos/python/cpython/releases{/id}', 'deployments_url': 'https://api.github.com/repos/python/cpython/deployments', 'created_at': '2017-02-10T19:23:51Z', 'updated_at': '2025-12-03T23:42:19Z', 'pushed_at': '2025-12-04T00:16:37Z', 'git_url': 'git://github.com/python/cpython.git', 'ssh_url': 'git@github.com:python/cpython.git', 'clone_url': 'https://github.com/python/cpython.git', 'svn_url': 'https://github.com/python/cpython', 'homepage': 'https://www.python.org', 'size': 755712, 'stargazers_count': 70111, 'watchers_count': 70111, 'language': 'Python', 'has_issues': True, 'has_projects': True, 'has_downloads': True, 'has_wiki': False, 'has_pages': False, 'has_discussions': False, 'forks_count': 33576, 'mirror_url': None, 'archived': False, 'disabled': False, 'open_issues_count': 9213, 'license': {'key': 'other', 'name': 'Other', 'spdx_id': 'NOASSERTION', 'url': None, 'node_id': 'MDc6TGljZW5zZTA='}, 'allow_forking': True, 'is_template': False, 'web_commit_signoff_required': False, 'topics': [], 'visibility': 'public', 'forks': 33576, 'open_issues': 9213, 'watchers': 70111, 'default_branch': 'main', 'temp_clone_token': None, 'custom_properties': {}, 'organization': {'login': 'python', 'id': 1525981, 'node_id': 'MDEyOk9yZ2FuaXphdGlvbjE1MjU5ODE=', 'avatar_url': 'https://avatars.githubusercontent.com/u/1525981?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/python', 'html_url': 'https://github.com/python', 'followers_url': 'https://api.github.com/users/python/followers', 'following_url': 'https://api.github.com/users/python/following{/other_user}', 'gists_url': 'https://api.github.com/users/python/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/python/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/python/subscriptions', 'organizations_url': 'https://api.github.com/users/python/orgs', 'repos_url': 'https://api.github.com/users/python/repos', 'events_url': 'https://api.github.com/users/python/events{/privacy}', 'received_events_url': 'https://api.github.com/users/python/received_events', 'type': 'Organization', 'user_view_type': 'public', 'site_admin': False}, 'network_count': 33576, 'subscribers_count': 1532}, 'crypto_usd': {'bitcoin': {'usd': 93471}, 'ethereum': {'usd': 3219.29}}, 'crypto_eur': {'bitcoin': {'eur': 80156}, 'ethereum': {'eur': 2760.9}}, 'crypto_gbp': {'bitcoin': {'gbp': 70068}, 'ethereum': {'gbp': 2412.19}}, 'user': {'results': [{'gender': 'male', 'name': {'title': 'Mr', 'first': 'Nichal', 'last': 'da Rocha'}, 'location': {'street': {'number': 2814, 'name': 'Rua Dois'}, 'city': 'Bagé', 'state': 'Mato Grosso', 'country': 'Brazil', 'postcode': 80850, 'coordinates': {'latitude': '-78.0978', 'longitude': '-132.8485'}, 'timezone': {'offset': '+1:00', 'description': 'Brussels, Copenhagen, Madrid, Paris'}}, 'email': 'nichal.darocha@example.com', 'login': {'uuid': 'b574416c-90f1-4e5d-8eea-59883207cd10', 'username': 'tinymouse383', 'password': 'switch', 'salt': 'Jc8e5x1a', 'md5': '93fb8f3cde67d2cba34bba0a1b4e4953', 'sha1': '1cff74ba3e16e27f44c4d521a240066d0581778c', 'sha256': '3454ca0f2d03fee9914e3d25fb5d9a69e39890d79434c3c0880e1e586d730464'}, 'dob': {'date': '1977-09-21T18:11:22.739Z', 'age': 48}, 'registered': {'date': '2012-10-03T13:58:20.918Z', 'age': 13}, 'phone': '(21) 0478-0011', 'cell': '(10) 0555-9663', 'id': {'name': 'CPF', 'value': '857.205.487-13'}, 'picture': {'large': 'https://randomuser.me/api/portraits/men/50.jpg', 'medium': 'https://randomuser.me/api/portraits/med/men/50.jpg', 'thumbnail': 'https://randomuser.me/api/portraits/thumb/men/50.jpg'}, 'nat': 'BR'}], 'info': {'seed': 'eae11266395b3f71', 'results': 1, 'page': 1, 'version': '1.4'}}}
+2025-12-03 20:44:57,725 - INFO - Saving snapshot to directory: C:\Users\quest\Documents\aiProjects\Day2PythonAutomation\data\db
+2025-12-03 20:44:57,727 - INFO - Snapshot file will be: C:\Users\quest\Documents\aiProjects\Day2PythonAutomation\data\db\snapshot_2025-12-03_20-44-57.json
+2025-12-03 20:44:57,735 - INFO - Appended data to master file: data/master.jsonl
+2025-12-03 20:44:57,738 - INFO - Creating summary report at: C:\Users\quest\Documents\aiProjects\Day2PythonAutomation\reports\summary.txt\summary_report.txt
+2025-12-03 20:44:57,745 - INFO - Summary report created at: C:\Users\quest\Documents\aiProjects\Day2PythonAutomation\reports\summary.txt\summary_report.txt
+2025-12-03 20:44:57,745 - INFO - Data collection process completed.
