@@ -8,5 +8,10 @@ apis:
 paths:
   db_path: "data/db"
   master_file: "data/master.jsonl"
-  report_file: "reports/summary.txt"
+  report_path: "reports/"
   log_file: "logs/app.log"
+
+cleanup:
+  report_days_to_keep: 2
+  log_days_to_keep: 2
+  snapshot_days_to_keep: 4

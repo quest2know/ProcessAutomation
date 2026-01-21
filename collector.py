@@ -73,7 +73,7 @@ def main():
     normalized = normalized_data(all_data)
     snapshot_path = save_snapshot(normalized, config['paths']['db_path'], logger)
     master_file = write_to_master(normalized, config['paths']['master_file'], logger)
-    report_path = create_summary_report(normalized, config['paths']['report_file'], logger)
+    report_path = create_summary_report(normalized, config['paths']['report_path'], logger)
     logger.info("Data collection process completed.")
     print(f"Snapshot saved at: {snapshot_path}")    
     print(f"Master file updated at: {master_file}")

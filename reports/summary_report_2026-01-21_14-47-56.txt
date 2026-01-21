@@ -1,0 +1,15 @@
+ Daily Data Summary Report
+==========================
+
+GitHub Stars: 71170
+
+Bitcoin USD: 90031          Ethereum USD: 3035.9
+
+Bitcoin EUR: 77156          Ethereum EUR: 2604.04
+
+Bitcoin GBP: 67191          Ethereum GBP: 2267.72
+
+User Name: Bently Abraham
+
+User Email: bently.abraham@example.com
+

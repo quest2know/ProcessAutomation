@@ -1,0 +1,15 @@
+ Daily Data Summary Report
+==========================
+
+GitHub Stars: 70185
+
+Bitcoin USD: 93093          Ethereum USD: 3271.9
+
+Bitcoin EUR: 80030          Ethereum EUR: 2812.79
+
+Bitcoin GBP: 69994          Ethereum GBP: 2460.41
+
+User Name: Louis Macdonald
+
+User Email: louis.macdonald@example.com
+

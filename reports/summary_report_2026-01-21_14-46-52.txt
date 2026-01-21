@@ -1,0 +1,15 @@
+ Daily Data Summary Report
+==========================
+
+GitHub Stars: 71170
+
+Bitcoin USD: 89992          Ethereum USD: 3032.75
+
+Bitcoin EUR: 77079          Ethereum EUR: 2599.03
+
+Bitcoin GBP: 67124          Ethereum GBP: 2263.37
+
+User Name: Ulita Yakovina
+
+User Email: ulita.yakovina@example.com
+

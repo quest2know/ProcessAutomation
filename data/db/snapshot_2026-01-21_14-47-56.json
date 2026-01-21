@@ -1,0 +1,21 @@
+{
+    "github_repo": {
+        "name": "cpython",
+        "stars": 71170,
+        "forks": 33936
+    },
+    "bitcoin_price": {
+        "usd": 90031,
+        "eur": 77156,
+        "gbp": 67191
+    },
+    "ethereum_price": {
+        "usd": 3035.9,
+        "eur": 2604.04,
+        "gbp": 2267.72
+    },
+    "user_info": {
+        "name": "Bently Abraham",
+        "email": "bently.abraham@example.com"
+    }
+}
